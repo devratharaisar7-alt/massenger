@@ -1,0 +1,6 @@
+{
+  "name": "Secure Messenger",
+  "description": "End-to-end encrypted peer-to-peer messenger with real-time sync across devices without servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
